@@ -16,7 +16,7 @@ Notes
 
 :version:       0.90.1
 :updated:       2021-06-10
-:documentation: http://ruyaml.readthedocs.io
+:documentation: https://ruyaml.readthedocs.io
 :repository:    https://github.com/pycontribs/ruyaml.git
 :pypi:          https://pypi.org/project/ruyaml/
 
@@ -51,16 +51,16 @@ me an email, preferably with some information on how you use the
 package (or a link to the repository) and I'll keep you informed
 when the status of the API is stable enough to make the transition.
 
-* `Overview <http://yaml.readthedocs.org/en/latest/overview.html>`_
-* `Installing <http://yaml.readthedocs.org/en/latest/install.html>`_
-* `Basic Usage <http://yaml.readthedocs.org/en/latest/basicuse.html>`_
-* `Details <http://yaml.readthedocs.org/en/latest/detail.html>`_
-* `Examples <http://yaml.readthedocs.org/en/latest/example.html>`_
-* `API <http://yaml.readthedocs.org/en/latest/api.html>`_
-* `Differences with PyYAML <http://yaml.readthedocs.org/en/latest/pyyaml.html>`_
+* `Overview <https://ruyaml.readthedocs.org/en/latest/overview.html>`_
+* `Installing <https://ruyaml.readthedocs.org/en/latest/install.html>`_
+* `Basic Usage <https://ruyaml.readthedocs.org/en/latest/basicuse.html>`_
+* `Details <https://ruyaml.readthedocs.org/en/latest/detail.html>`_
+* `Examples <https://ruyaml.readthedocs.org/en/latest/example.html>`_
+* `API <https://ruyaml.readthedocs.org/en/latest/api.html>`_
+* `Differences with PyYAML <https://ruyaml.readthedocs.org/en/latest/pyyaml.html>`_
 
 .. image:: https://readthedocs.org/projects/yaml/badge/?version=stable
-   :target: https://yaml.readthedocs.org/en/stable
+   :target: https://ruyaml.readthedocs.org/en/stable
 
 .. image:: https://bestpractices.coreinfrastructure.org/projects/1128/badge
    :target: https://bestpractices.coreinfrastructure.org/projects/1128
